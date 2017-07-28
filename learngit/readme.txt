@@ -10,8 +10,3 @@ issue
 
 adf--add
 
----master ++
-=======
----nashadd+++++
-
-
